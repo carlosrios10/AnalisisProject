@@ -1,3 +1,10 @@
 .Rproj.user
 .Rhistory
 .RData
+*.csv
+*.graphml
+*.pdf
+*.rds
+*.zip
+*.Rmd
+*.txt
